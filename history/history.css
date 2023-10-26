@@ -238,6 +238,10 @@
   margin: 5px;
 }
 
+.small-text {
+    font-size: 12px; /* Adjust the size as needed */
+}
+
 @media (max-width: 720px) {
   .main {
     width: clamp(250px, 89vw, 600px);
